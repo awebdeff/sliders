@@ -1,0 +1,1 @@
+# slider development on js

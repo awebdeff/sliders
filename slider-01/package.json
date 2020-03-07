@@ -1,0 +1,25 @@
+{
+  "name": "slider01",
+  "version": "1.0.0",
+  "description": "slider on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awebdeff/slider-01.git"
+  },
+  "keywords": [
+    "slider",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "ash <awebdeff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awebdeff/slider-01/issues"
+  },
+  "homepage": "https://github.com/awebdeff/slider-01#readme"
+}
