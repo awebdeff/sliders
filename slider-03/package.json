@@ -1,0 +1,9 @@
+{
+  "name": "slider-03",
+  "version": "1.0.0",
+  "description": "slider flexbox",
+  "main": "index.html",
+  "repository": "https://github.com/awebdeff/sliders/slider-03",
+  "author": "ash <awebdeff@gmail.com>",
+  "license": "MIT"
+}
