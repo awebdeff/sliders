@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.infinity-slider-wrap {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.infinity-slider {
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+}
+
+.infinity-slider img {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  opacity: 1;
+  transition: all ease 1s;
+}
+
+.infinity-slider .opacity0 {
+  opacity: 0;
+}
+
+.btn-ifinity-up, .btn-ifinity-down {
+  width: 64px;
+  height: 64px;
+  background-size: contain;
+}
+
+.btn-ifinity-up {
+  background: url(../img/up.png);
+  transform: rotate(-90deg);
+}
+
+.btn-ifinity-down {
+  background: url(../img/down.png);
+  transform: rotate(-90deg);
+}
+
+.btn-ifinity-up:hover, .btn-ifinity-down:hover {
+  background-color: pink;
+  transition: ease 0.8s;  
+}
+
+.btn-block {  
+  position: absolute;
+  top: 35%;
+  right: 100%;
+  cursor: pointer;
+}
+
+.btn-ifinity-up, .btn-ifinity-down {
+  background-color: aqua;
+  transition: all 0.8s ease; 
+}
